@@ -1,4 +1,4 @@
-# Sspammer
+# AutoServ
 > Everyday update and upgrade tasks automator for UNEX systems.
 ***
 # How to use it?
