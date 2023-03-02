@@ -8,5 +8,5 @@
 * After running the script, it will ask for some user inputs and automatically update and upgrade the system.
 * Done!
 ***
-# Thank You! 😊
+# Thank You!
 ***
